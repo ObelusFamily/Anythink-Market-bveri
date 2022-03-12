@@ -13,6 +13,7 @@ To start the app use: `./start.sh` from the frontend directory.
 To verify that everything is working you should be able to create a new user in the following link: localhost:3001/register
 
 Create new user and verify that the user is set on your local mongo
+
 ## Pages overview
 
 - Home page (URL: /#/ )
