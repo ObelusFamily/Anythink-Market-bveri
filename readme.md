@@ -7,3 +7,7 @@ Please find more info about each part in the relevant Readme file ([frontend](fr
 ## Development
 
 When implementing a new feature or fixing a bug, please create a new pull request against `main` from a feature/bug branch and add `@vanessa-cooper` as reviewer.
+
+##Prepration 
+
+Make sure all the dependence are installed and after that you can check the `read.me` file for both backend and frontend for more examples and installation steps
