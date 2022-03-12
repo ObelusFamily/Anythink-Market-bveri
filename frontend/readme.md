@@ -2,11 +2,17 @@
 
 The Anythink Frontend is an SPA written with [React](https://reactjs.org/) and [Redux](https://redux.js.org/)
 
+## Preparation
+
+Make sure to create the correct `.env` file with the port directed to: localhost:3001 for test
+
 ## Getting started
 
 To start the app use: `./start.sh` from the frontend directory.
 
-Make sure your server is up and running to serve requests.
+To verify that everything is working you should be able to create a new user in the following link: localhost:3001/register
+
+Create new user and verify that the user is set on your local mongo
 
 ## Pages overview
 
